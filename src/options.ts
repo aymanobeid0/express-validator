@@ -152,6 +152,7 @@ export type MobilePhoneLocale =
   | 'ar-LB'
   | 'ar-LY'
   | 'ar-MA'
+  | 'ar-MR'
   | 'ar-OM'
   | 'ar-PS'
   | 'ar-SA'
